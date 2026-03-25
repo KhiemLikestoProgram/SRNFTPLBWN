@@ -16,4 +16,4 @@ SRNFTPLBWN (SRN for short) is a programing (scripting) language, design to do ba
 2. Type `srn some-path-to-the-file.srn [-d | -?]` in your terminal.
 3. Double click on a `.srn` file (will be implemented soon, is experimental).
 
-#### **WARNING:** _Because this is a (probably esoteric) language, you may expect easy learning curves. But this language isn't suitable for making programs, so don't make programs with it (itwillbeveryslowandbuggy)._
+#### **WARNING:** As this is (probably) an esoteric language, this language isn't suitable at all for making programs. So don't make programs with it.(itwillbeveryslowandbuggy)_
